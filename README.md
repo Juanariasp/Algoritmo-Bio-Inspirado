@@ -6,11 +6,6 @@
 <p><strong>Asignatura:</strong> Sistemas Inteligentes</p>
 <p><strong>Tema:</strong> Algoritmo Bio - Inspirado</p>
 <p><strong>Estudiantes:</strong></p>
-<ul>
-    <li>Christian David Jimenez</li>
-    <li>Juan Camilo Hernandez</li>
-    <li>Juan Esteban Arias</li>
-</ul>
 </div>
 
 ## *Descripción del Proyecto*
